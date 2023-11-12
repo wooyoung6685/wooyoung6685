@@ -1,7 +1,7 @@
 
 <h2>👋Hi! I'm Wooyoung👋</h2>
 
-<h3> 💻 &nbsp;I'm a front-end developer </h3>
+<h3> 💻I'm a front-end developer </h3>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
