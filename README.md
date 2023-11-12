@@ -23,7 +23,7 @@
 
 <p>
 <a href="https://github.com/wooyoung6685">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wooyoung6685&show_icons=true&theme=radical" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wooyoung6685&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
