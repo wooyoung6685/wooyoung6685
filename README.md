@@ -1,12 +1,7 @@
-### Hi there 👋
 
-<h2>I'm Wooyoung</h2>
+<h2>👋Hi! I'm Wooyoung👋</h2>
 
-<h3> 💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Enginering at Brigham Younh University Idaho.
-
+<h3> 💻 &nbsp;I'm a front-end developer </h3>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
