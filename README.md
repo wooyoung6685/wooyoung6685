@@ -10,10 +10,12 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript&logoColor=#3178C6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React Query](https://img.shields.io/badge/-React_Query-333333?style=flat&logo=react-query)
+  ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-333333?style=flat&logo=react-hook-form)
   ![storybook](https://img.shields.io/badge/-storybook-333333?style=flat&logo=storybook)
   ![styled-components](https://img.shields.io/badge/-styled--components-333333?style=flat&logo=styled-components)
   ![zustand](https://img.shields.io/badge/-zustand-333333?style=flat&logo=zustand)
-
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
