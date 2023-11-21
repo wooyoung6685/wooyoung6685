@@ -12,8 +12,8 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Query](https://img.shields.io/badge/-React_Query-333333?style=flat&logo=react-query)
   ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-333333?style=flat&logo=react-hook-form)
-  ![storybook](https://img.shields.io/badge/-storybook-333333?style=flat&logo=storybook)
-  ![styled-components](https://img.shields.io/badge/-styled--components-333333?style=flat&logo=styled-components)
+  ![storybook](https://img.shields.io/badge/-storybook-333333?style=flat&logo=storybook)><br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;![styled-components](https://img.shields.io/badge/-styled--components-333333?style=flat&logo=styled-components)
   ![zustand](https://img.shields.io/badge/-zustand-333333?style=flat&logo=zustand)
   
 - ⚙️ &nbsp;
