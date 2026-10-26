@@ -40,7 +40,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="start">
-<a href="mailto:wooyoung6685@gamil.com"><img src="https://img.shields.io/badge/-wooyoung6685@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:wooyoung6685@gmail.com"><img src="https://img.shields.io/badge/-wooyoung6685@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
